@@ -1,0 +1,9 @@
+name, sku, description, base_price, options,product_variant_parent_sku, product_variant_flag
+"shirt", shirt, "This is a shirt", 10, "color: red|blue|green
+size: sm|med|lg", , 0
+"shirt-red", shirt-red, , 11, "color: red
+size: sm", shirt, 1
+"shirt-blue", shirt-blue, , 12, "color: blue
+size: sm", shirt , 1
+"shirt-green", shirt-green, , 13, "color: green
+size: sm", shirt , 1
