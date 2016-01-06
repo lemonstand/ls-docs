@@ -1,9 +1,9 @@
-name, sku, description, base_price, options,product_variant_parent_sku, product_variant_flag
-"shirt", shirt, "This is a shirt", 10, "color: red|blue|green
-size: sm|med|lg", , 0
-"shirt-red", shirt-red, , 11, "color: red
-size: sm", shirt, 1
-"shirt-blue", shirt-blue, , 12, "color: blue
-size: sm", shirt , 1
-"shirt-green", shirt-green, , 13, "color: green
-size: sm", shirt , 1
+name,url_name,description,product_type,base_price,tax_class,sku,weight,options,product_variant_parent_sku,product_variant_flag,enabled
+T-Shirt,t-shirt,,Goods,7.5,Product,t-shirt,1,"Color:Red|Blue
+Size:Small|Medium",,,1
+T-Shirt,t-shirt-red-small,,Goods,7.5,Product,t-shirt-red-small,1,"Color: Red
+Size: Small",t-shirt,1,1
+T-Shirt,t-shirt-red-medium,,Goods,15,Product,t-shirt-red-medium,1,"Color: Red
+Size: Medium",t-shirt,1,1
+T-Shirt,t-shirt-blue-medium,,Goods,15,Product,t-shirt-blue-medium,1,"Color: Blue
+Size: Medium",t-shirt,1,1
