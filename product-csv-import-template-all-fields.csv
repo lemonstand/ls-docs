@@ -1,0 +1,10 @@
+name,sku,barcode,description,short_description,meta_keywords,meta_description,title,manufacturer,categories,tax_class,url_name,base_price,cost,depth,width,height,weight,enabled,track_inventory,allow_preorder,in_stock_amount,hide_out_of_stock,out_of_stock_threshold,allow_negative_stock,product_type,images,options,extras,is_on_sale,sale_price_or_discount,attributes,product_variant_flag,product_variant_parent_sku,track_variant_inventory
+T-Shirt,t-shirt,123456789012,"<p>Kick it old school with this bold red tee, overlaid with an original LemonStand graphic. This throwback symbolizes the small beginnings of online stores.</p><p>&bull; 100% organic cotton &bull; Fairtrade</p>",Old school bold tee!,"t-shirt, bold","Kick it old school with this bold red tee, overlaid with an original LemonStand graphic. This throwback symbolizes the small beginnings of online stores.",LemonStand T-Shirt,LemonStand,Clothing|Clothing=>Shirts,Product,t-shirt,7.5,5,2,6,10,1,1,1,0,0,0,0,0,Goods,"/shirts/t-shirt-front.jpg
+/shirts/t-shirt-back.jpg","Color:Red|Blue
+Size:Small|Medium",Extra 1|1.99 || Extra 2|2.99,0,,Made in: China|Packaged in: USA,,,
+T-Shirt,t-shirt-red-small,123456789013,,,,,,,,Product,t-shirt-red-small,7.5,5,2,6,10,1,1,,,0,,,,Goods,/shirts/t-shirt-1.jpg,"Color: Red
+Size: Small",,1,5.99,,1,t-shirt,1
+T-Shirt,t-shirt-red-medium,123456789014,,,,,,,,Product,t-shirt-red-medium,15,10,2,6,10,1,1,,,0,,,,Goods,/shirts/t-shirt-2.jpg,"Color: Red
+Size: Medium",,1,10%,,1,t-shirt,1
+T-Shirt,t-shirt-blue-medium,123456789015,,,,,,,,Product,t-shirt-blue-medium,15,10,2,6,10,1,1,,,0,,,,Goods,/shirts/t-shirt-2.jpg,"Color: Blue
+Size: Medium",,0,,,1,t-shirt,1
