@@ -1,0 +1,6 @@
+name,type,url_name,tax_class,sku,parent_sku,in_stock_amount,option_name_1,option_value_1,barcode,base_price,cost,depth,width,height,weight,enabled,track_inventory,is_on_sale,sale_price_or_discount,created_at,updated_at
+Brushed Lemons,Goods,brushed-lemons-white,Product,brushed-lemons-white,,12,Size,,12345,20,5,2,2,2,1,1,1,1,5,2018-05-10 10:57:40,2018-07-16 15:04:48
+,,,,,brushed-lemons-white,,,S,123451,25,6,2,2,2,1,1,0,0,,2018-07-16 15:02:30,2018-07-16 15:04:49
+,,,,,brushed-lemons-white,,,M,123452,25,6,2,2,2,1,1,0,0,,2018-07-16 15:02:30,2018-07-16 15:04:49
+,,,,,brushed-lemons-white,,,L,123453,25,7,2,2,2,1,1,0,0,,2018-07-16 15:02:30,2018-07-16 15:04:49
+,,,,,brushed-lemons-white,,,XL,123454,30,8,3,2,2,1,1,0,0,,2018-07-16 15:02:30,2018-07-16 15:04:49

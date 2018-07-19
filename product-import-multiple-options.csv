@@ -1,0 +1,6 @@
+name,type,url_name,tax_class,sku,parent_sku,in_stock_amount,option_name_1,option_value_1,option_name_2,option_value_2,barcode,base_price,cost,depth,width,height,weight,enabled,track_inventory,is_on_sale,sale_price_or_discount,allow_preorder,hide_out_of_stock,out_of_stock_threshold,allow_negative_stock,enable_product_shipping_rates,description,short_description,title,meta_description,meta_keywords,sort_order,created_at,updated_at
+LS Logo,Goods,ls-logo,Product,ls-logo,,,Colour,,Logo Colour,,,25,0,0,0,0,1,1,0,0,,0,0,0,0,0,<p>A minimalist design repping LemonStand's logo in an assortment of colours. Feel the power of developer-friendly online stores in this comfy garment.</p><p>• 100% organic cotton • Fairtrade</p>,,,,,,2018-05-10 10:57:42,2018-07-16 15:37:36
+,,,,,ls-logo,,,White,,Blue,,,,,,,,1,,,,,,,,,,,,,,,2018-05-10 10:57:42,2018-07-16 15:37:36
+,,,,,ls-logo,,,White,,Yellow,,,,,,,,1,,,,,,,,,,,,,,,2018-05-10 10:57:42,2018-07-16 15:37:37
+,,,,,ls-logo,,,Black,,Blue,,,,,,,,1,,,,,,,,,,,,,,,2018-05-10 10:57:42,2018-07-16 15:37:37
+,,,,,ls-logo,,,Black,,Yellow,,,,,,,,1,,,,,,,,,,,,,,,2018-05-10 10:57:42,2018-07-16 15:37:37
